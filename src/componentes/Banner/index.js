@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Danielle Palmeira, desenvolvedora Front-end e Designer Grafico. Sou uma pessoa curiosa que ama fazer coisas novas e ser desafiada. Tentando dar o meu melhor. Sempre. Aqui compartilho meus projetos :)
+                    Sviluppatrice Front-end e Designer con passione per l'innovazione tecnologica. Professionista creativa che trasforma sfide in soluzioni digitali eleganti e funzionali. Specializzata nella progettazione di esperienze utente coinvolgenti e interfacce intuitive. :)
                 </p>
             </div>
 
