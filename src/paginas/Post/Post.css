@@ -28,6 +28,8 @@
 }
 
 .post-markdown-container img {
+    width: 100%;
+    max-width: max-content;
     display: block;
     margin: 0 auto;
 }
