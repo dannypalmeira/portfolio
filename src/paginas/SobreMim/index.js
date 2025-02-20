@@ -5,7 +5,7 @@ import fotoSobreMim from "assets/sobre_mim_foto.png";
 
 export default function SobreMim() {
   return (
-    <PostModelo fotoCapa={fotoCapa} titulo="Sobre Mim">
+    <PostModelo fotoCapa={fotoCapa} titulo="About Me">
 
       <img
         src={fotoSobreMim}
