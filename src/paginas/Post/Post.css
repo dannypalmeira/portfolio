@@ -23,7 +23,12 @@
 }
 
 .post-markdown-container a {
-    color: #0493d4;
+    color: #001d3d;
+    text-style: italyc;
+    text-decoration: none;
+}
+
+.post-markdown-container a:hover {
     text-decoration: underline;
 }
 
