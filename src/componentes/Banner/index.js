@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Sviluppatrice Front-end e Designer con passione per l'innovazione tecnologica. Professionista creativa che trasforma sfide in soluzioni digitali eleganti e funzionali. Specializzata nella progettazione di esperienze utente coinvolgenti e interfacce intuitive. :)
+                    UX/UI Designer con oltre 20 anni di esperienza nella progettazione e sviluppo web e grafico. Appassionato nel creare esperienze utente intuitive e coinvolgenti attraverso ricerca, prototipazione e design iterativo. Specializzato in Figma, test di usabilità e sviluppo front-end, trasformo idee in soluzioni efficaci che ottimizzano l'engagement e supportano gli obiettivi aziendali. :)
                 </p>
             </div>
 
