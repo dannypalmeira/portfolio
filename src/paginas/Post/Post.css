@@ -23,7 +23,7 @@
 }
 
 .post-markdown-container a {
-    color: #001d3d;
+    color: var(--azul-medio);
     font-style: italic;
     text-decoration: none;
 }
