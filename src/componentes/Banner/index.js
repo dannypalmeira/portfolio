@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    UX/UI Designer con oltre 20 anni di esperienza nella progettazione e sviluppo web e grafico. Appassionato nel creare esperienze utente intuitive e coinvolgenti attraverso ricerca, prototipazione e design iterativo. Specializzato in Figma, test di usabilità e sviluppo front-end, trasformo idee in soluzioni efficaci che ottimizzano l'engagement e supportano gli obiettivi aziendali. :)
+                    UX/UI Designer con oltre due decenni di viaggio creativo nella progettazione digitale e grafica. Trasformo la complessità in semplicità attraverso esperienze utente intuitive che catturano e mantengono l'attenzione. La mia passione? Dare vita alle idee mediante ricerca approfondita, prototipazione strategica e design iterativo. Navigo tra Figma, test di usabilità e sviluppo front-end per costruire soluzioni che non solo rispondono alle esigenze degli utenti, ma amplificano l'engagement e guidano concretamente i risultati aziendali. Ogni pixel ha uno scopo, ogni interazione racconta una storia.
                 </p>
             </div>
 
