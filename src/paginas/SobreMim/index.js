@@ -13,12 +13,13 @@ export default function SobreMim() {
         className={styles.fotoSobreMim}
       />
 
-      <p className={styles.paragrafo}>Ciao! Sono Danielle, brasiliana, designer e sviluppatrice web, ma anche una persona curiosa e sempre in movimento. Ho vissuto e lavorato in diversi posti, tra cui l’Irlanda e l’Italia, e mi piace immergermi nelle culture, adattarmi ai nuovi ambienti e scoprire modi diversi di vivere e lavorare.</p>
+      <p className={styles.paragrafo}>Ciao, sono Danielle — una designer e sviluppatrice web con radici brasiliane e spirito nomade. La mia carriera e la mia vita mi hanno portata a esplorare il mondo, dall’Irlanda all’Italia, coltivando un profondo amore per le culture, l’adattabilità e i nuovi modi di pensare, vivere e creare.</p>
 
- <p className={styles.paragrafo}>Amo ballare, leggere e frequentare corsi per imparare sempre qualcosa di nuovo – che sia design, tecnologia o anche cucina! Parlare di cucina mi ricorda che ogni tanto do una mano a un amico nel settore gastronomico, un’esperienza che unisce la mia passione per il cibo e la voglia di sperimentare.</p>
-        <p className={styles.paragrafo}>Quando posso, scappo nella natura: adoro camminare tra le montagne, lungo la spiaggia o semplicemente in un bel parco. Preferisco le mezze stagioni, quando l’aria è fresca ma non troppo fredda, perfetta per godersi il tempo all’aperto.</p>
+ <p className={styles.paragrafo}Il mio approccio al design nasce da una curiosità instancabile e da una visione umana della tecnologia. Amo progettare soluzioni che siano funzionali, ma anche capaci di raccontare storie e generare connessioni autentiche.</p>
 
- <p className={styles.paragrafo}>La mia compagna di avventure è Mia, la mia gatta, che ama stare seduta accanto a me mentre leggo libri di ogni genere, dai gialli alla sociologia o neuroscienze. È la mia piccola spettatrice anche quando mi immergo nelle mie serie TV coreane preferite! 😊</p>
+ <p className={styles.paragrafo}>Fuori dallo schermo, mi troverai spesso con un libro in mano, tra un corso di cucina e uno di UX design, oppure a ballare per ricaricare le energie. Mi piace mettere le mani in pasta – a volte anche in senso letterale – e collaboro ogni tanto con amici nel settore gastronomico, dove design e gusto si incontrano in modo sorprendente.</p>     
+
+ <p className={styles.paragrafo}>La natura è il mio rifugio creativo: che siano i sentieri di montagna, la sabbia sotto i piedi o semplicemente un parco cittadino, mi aiuta a ritrovare equilibrio e ispirazione. E mentre lavoro o leggo, c’è sempre Mia – la mia gatta osservatrice e compagna fedele – a tenermi compagnia, magari durante l’ennesimo episodio di una serie coreana.</p>
     </PostModelo>
   );
 }
