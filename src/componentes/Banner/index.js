@@ -6,13 +6,11 @@ export default function Banner() {
     return (
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
-                <h1 className={styles.titulo}>
-                    Olá, Mundo!
-                </h1>
-
-                <p className={styles.paragrafo}>
-                    UX/UI Designer con oltre due decenni di viaggio creativo nella progettazione digitale e grafica. Trasformo la complessità in semplicità attraverso esperienze utente intuitive che catturano e mantengono l'attenzione. La mia passione? Dare vita alle idee mediante ricerca approfondita, prototipazione strategica e design iterativo. Navigo tra Figma, test di usabilità e sviluppo front-end per costruire soluzioni che non solo rispondono alle esigenze degli utenti, ma amplificano l'engagement e guidano concretamente i risultati aziendali. Ogni pixel ha uno scopo, ogni interazione racconta una storia.
-                </p>
+                <h1 className={styles.titulo}>Ciao, sono Danielle</h1>
+                <p className={styles.paragrafo}>UX/UI Designer con una mente curiosa e un approccio umano al digitale.</p>
+                <p className={styles.paragrafo}>Con oltre 20 anni di esperienza, creo interfacce semplici e funzionali, dal concept alla prototipazione fino allo sviluppo front-end.</p>
+                <p className={styles.paragrafo}>Uso strumenti come Figma e test di usabilità per progettare esperienze che rispondano ai bisogni delle persone e ai requisiti dei brand.</p>
+                <p className={styles.paragrafo}>Credo in un design che risolve problemi, racconta storie e guida risultati.</p>
             </div>
 
             <div className={styles.imagens}>

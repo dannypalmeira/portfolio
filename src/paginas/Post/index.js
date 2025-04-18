@@ -37,8 +37,8 @@ export default function Post() {
               <div className="post-markdown-container">
                 <ReactMarkdown>{post.texto}</ReactMarkdown>
               </div>
-
-              <h2 className={styles.tituloOutrosPosts}>Altri progetti:</h2>
+              <hr />
+              <h2 className={styles.tituloOutrosPosts}>Scopri altri progetti</h2>
               <ul className={styles.postsRecomendados}>{postsRecomendados.map((post) => (
                 <li key={post.id}>
                   <PostCard post={post} />

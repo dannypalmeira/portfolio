@@ -11,8 +11,7 @@
 }
 
 .post-markdown-container h4 {
-    margin-bottom: 1.5rem;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 .post-markdown-container p {
@@ -24,7 +23,6 @@
 
 .post-markdown-container a {
     color: var(--azul-medio);
-    font-style: italic;
     text-decoration: none;
 }
 
