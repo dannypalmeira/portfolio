@@ -41,6 +41,7 @@
     .titulo {
         padding: 0 1rem;
         font-size: 2rem;
+        line-height: 2rem;
     }
  
     .postConteudoContainer {
