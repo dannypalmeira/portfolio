@@ -11,19 +11,18 @@ export default function NaoEncontrada() {
       <div className={styles.conteudoContainer}>
         <span className={styles.texto404}>404</span>
 
-        <h1 className={styles.titulo}>Ops! Página não encontrada.</h1>
+        <h1 className={styles.titulo}>Oops! Pagina non trovata.</h1>
 
         <p className={styles.paragrafo}>
-          Tem certeza de que era isso que você estava procurando?
+          Sei sicuro che sia questo che stavi cercando?
         </p>
 
         <p className={styles.paragrafo}>
-          Aguarde uns instantes e recarregue a página, ou volte para a página
-          inicial.
+          Attendi qualche istante e ricarica la pagina, oppura torna alla pagina principale.
         </p>
 
         <div className={styles.botaoContainer} onClick={() => navegar(-1)}>
-          <BotaoPrincipal tamanho="lg">Voltar</BotaoPrincipal>
+          <BotaoPrincipal tamanho="lg">Torna indietro</BotaoPrincipal>
         </div>
 
         <img

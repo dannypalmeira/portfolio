@@ -5,7 +5,6 @@ import { Routes, Route, useParams } from "react-router-dom";
 import posts from "json/posts.json";
 import PostModelo from "componentes/PostModelo";
 import NaoEncontrada from "paginas/NaoEncontrada";
-import PaginaPadrao from "componentes/PaginaPadrao";
 import PostCard from "componentes/PostCard";
 
 export default function Post() {
@@ -25,8 +24,7 @@ export default function Post() {
     .slice(0, 4);
 
   return (
-    <Routes>
-      <Route path="*" element={<PaginaPadrao />}>
+    <Routes>      
         <Route
           index
           element={
@@ -47,7 +45,6 @@ export default function Post() {
             </PostModelo>
           }
         />
-      </Route>
     </Routes>
   );
 }

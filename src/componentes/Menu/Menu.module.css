@@ -6,9 +6,26 @@
     column-gap: 3rem;
 }
 
- 
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 2rem;
+    color: var(--azul-escuro);
+}
+
+.socials svg {
+    fill: var(--azul-escuro);
+}
+
+svg:hover {
+    fill: var(--azul-medio);
+}
+
+
 @media (max-width: 744px) {
     .navegacao {
         height: 72px;
+        column-gap: 2rem;
     }
 }

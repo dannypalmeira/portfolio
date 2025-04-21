@@ -17,6 +17,7 @@
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     line-height: 2rem;
+    font-weight: 300;
     margin-bottom: 2rem;
 }
  
@@ -75,15 +76,18 @@
     }
  
     .titulo {
-        margin-bottom: 2rem;
+        font-size: 3rem;
+        line-height: 3rem;
     }
  
     .paragrafo {
+        font-size: 1.2rem;
+        line-height: 1.6rem;
         margin-bottom: 2rem;
     }
  
     .imagens {
-        height: 307px;
+        height: 255px;
     }
  
     .imagens > .minhaFoto, .imagens > .circuloColorido {
